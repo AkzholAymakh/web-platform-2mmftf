@@ -1,0 +1,78 @@
+body{
+  background:url(../i.jpg);
+  background-repeat: 2000px;
+  background-size: 2100px;
+}
+      p{
+    color:white;
+    margin-left: 20px;
+}
+h1{
+    cursor: help;
+    text-transform: uppercase;
+    padding-bottom: 5px;
+    border-bottom: 3px solid #5200a5;
+    color:black;
+}
+figcaption{
+    color: aliceblue;
+}
+div{
+    align-content: center;
+    color: black;
+}
+body{
+    font-family: Tahoma;
+}
+form {
+    align-content: center;
+    background-color:cornflowerblue;
+    margin: 0 auto;
+    width: 800px;
+    height: 1000px;
+    padding: 20px;
+    box-shadow: 2px 2px 5px rgba(0,0,0.82);
+}
+h2{
+    color: aliceblue;
+}
+.group{
+    margin: 10px;
+    padding: 5px;
+}
+label {
+    text-align: center;
+    padding-left: 10px;
+    text-transform: uppercase;
+}
+input{
+    align-content: center;
+    text-align: center;
+    margin-top: 10px;
+    height: 40px;
+    width: 400px;
+    border-radius: 20px/20px;
+    border: none;
+    
+}
+button{
+    cursor: pointer;
+    padding: 10px 30px;
+    height: 50px;
+    color:#fff;
+    background-color:darkmagenta; 
+    border: none;
+    text-transform: uppercase;
+    transition: 0.8s;
+}
+button:hover {
+    opacity: .80;
+    font-weight: bold;
+    transform: scale(1.1);
+}
+
+.but {
+    text-decoration: none;
+    color: white;
+    font-size: 25px;
+}

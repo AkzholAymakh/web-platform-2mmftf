@@ -1,0 +1,36 @@
+body{
+  background:url(../i.jpg);
+  background-repeat: 2000px;
+  background-size: 3000px;
+}
+p{
+    color:white;
+    margin-left: 20px;
+}
+
+
+
+.more {
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-right: 10px;
+    padding-left: 10px;
+    margin-left: 20px;
+    cursor: pointer;
+    text-decoration: none;
+    background-color: white;
+    border: 1px solid gray;
+    border-radius: 5px;
+    transition: 0.5s;
+}
+
+form {
+    align-content: center;
+    background-color:cornflowerblue;
+    opacity: 0.9;
+    margin: 0 auto;
+    width: 800px;
+    height: 1600px;
+    padding: 20px;
+    box-shadow: 2px 2px 5px rgba(0,0,0.82);
+}
